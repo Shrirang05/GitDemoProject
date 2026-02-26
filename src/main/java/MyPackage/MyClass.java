@@ -7,4 +7,11 @@ public class MyClass {
 	{
 		System.out.println("Welcome to home");
 	}
+	
+	
+	public void method1()
+	{
+		System.out.println("Test");
+	}
+	
 }
