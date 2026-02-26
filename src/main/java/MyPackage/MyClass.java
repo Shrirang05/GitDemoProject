@@ -19,6 +19,9 @@ public class MyClass {
 		System.out.println("Test-123");
 	}
 	
-	
+	public void method3()
+	{
+		System.out.println("999");
+	}
 	
 }
