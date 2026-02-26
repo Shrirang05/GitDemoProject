@@ -11,7 +11,8 @@ public class MyClass {
 	
 	public void method1()
 	{
-		System.out.println("Test");
+		System.out.println("Shrirang");
 	}
 	
 }
+
