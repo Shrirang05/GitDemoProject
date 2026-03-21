@@ -11,7 +11,7 @@ public class MyClass {
 	
 	public void method1()
 	{
-		System.out.println("Shrirang");
+		System.out.println("This is collegue Branch");
 	}
 	
 	public void method2()
