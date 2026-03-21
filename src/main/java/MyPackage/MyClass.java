@@ -24,5 +24,10 @@ public class MyClass {
 		System.out.println("999");
 	}
 	
+	public void method4()
+	{
+		System.out.println("method4");
+	}
+	
 }
 
