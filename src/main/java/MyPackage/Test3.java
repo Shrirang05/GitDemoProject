@@ -7,6 +7,8 @@ public class Test3 {
 		System.out.println("Removing this statement");
 
        System.out.println("From Git Hub");
+       
+       System.out.println("Test 3");
 		
 	}
 
