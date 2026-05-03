@@ -12,6 +12,7 @@ public class MyClass {
 	public void method1()
 	{
 		System.out.println("22-03-26");
+		String a = "Test";
 	}
 	
 	public void method2()
