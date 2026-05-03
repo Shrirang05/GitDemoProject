@@ -12,6 +12,7 @@ public class MyClass {
 	public void method1()
 	{
 		System.out.println("23-03-26");
+		System.out.println("Branch 2 date is 23 only");
 	}
 	
 	public void method2()
@@ -27,6 +28,12 @@ public class MyClass {
 	public void method4()
 	{
 		System.out.println("method4");
+	}
+	
+	public void myclass2()
+	{
+		System.out.println("myclass 2 from git hub");
+		System.out.println("myclass 3");
 	}
 	
 }
