@@ -13,6 +13,7 @@ public class MyClass {
 	{
 		System.out.println("23-03-26");
 		System.out.println("Branch 2 date is 23 only");
+		int a =10;
 	}
 	
 	public void method2()
