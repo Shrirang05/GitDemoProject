@@ -29,5 +29,10 @@ public class MyClass {
 		System.out.println("method4");
 	}
 	
+	public void myclass()
+	{
+		System.out.println("myclass");
+	}
+	
 }
 
