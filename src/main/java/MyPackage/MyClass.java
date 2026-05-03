@@ -29,9 +29,10 @@ public class MyClass {
 		System.out.println("method4");
 	}
 	
-	public void myclass()
+	public void myclass2()
 	{
-		System.out.println("myclass");
+		System.out.println("myclass 2 from git hub");
+		System.out.println("myclass 3");
 	}
 	
 }
